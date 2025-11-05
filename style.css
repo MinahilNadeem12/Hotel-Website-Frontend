@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ .container .navbar-brand{
+    font-size: 22px;
+    color: blueviolet;
+}
+.navbar-nav .nav-link {
+    font-size: 18px;
+   margin-right: 10px;
+}
+.container .navbar-nav .nav-item .nav-link:hover{
+   font-size: 20px;
+    color: blueviolet;
+}
+.container .btn{
+    color: white;
+    background-color: blueviolet;
+}
+
